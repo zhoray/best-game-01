@@ -1,7 +1,7 @@
 # Orbwarden
-![Status: ci](https://github.com/zhoray/best-game-01/actions/workflows/ci.yml/badge.svg)
-![Status: check](https://github.com/zhoray/best-game-01/actions/workflows/check.yml/badge.svg)
-![Status: verify](https://github.com/zhoray/best-game-01/actions/workflows/verify.yml/badge.svg)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/zhoray/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/zhoray/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 [Orbwarden on make.fun — best-game-01](https://make.fun/bounty/best-game-01)
 
