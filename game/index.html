@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Orbwarden: an original gravity-well arcade game. Bend falling motes into the well in its own colour, chase gold, dodge void shards, and reach 1,200 points before the drift ends.">
+<meta name="theme-color" content="#05070f">
+<title>Orbwarden — a gravity-well arcade game</title>
+<style>
+html, body { margin: 0; height: 100%; overflow: hidden; background: #05070f; }
+#game { position: fixed; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; }
+#status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+</style>
+</head>
+<body>
+<canvas id="game" aria-label="Orbwarden: steer a gravity well, catch motes of the well's colour, dodge void shards"></canvas>
+<p id="status" role="status" aria-live="polite"></p>
+<noscript><p style="color:#dfe6ff;font-family:system-ui,sans-serif;text-align:center;margin-top:2rem">Orbwarden needs JavaScript to play.</p></noscript>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
